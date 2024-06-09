@@ -1,0 +1,11 @@
+Create Pipes:
+ng g pipe pipes/append
+
+Create Service:
+ng g s services/data
+
+Crete Interface
+ng g interface interfaces/data
+
+Create a Component:
+ng generate component user-profile
